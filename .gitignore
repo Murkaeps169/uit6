@@ -1,0 +1,6 @@
+﻿*.tmp
+*.log
+node_modules/
+venv/
+.env
+config.local.json
